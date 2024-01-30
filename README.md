@@ -27,6 +27,21 @@ pip install -r requirments.txt
 
 可以执行上述指令安装
 
+并且完成bert-base-uncased安装
+
+安装依赖
+
+```bash
+pip install -U huggingface_hubCopy
+```
+
+输入命令
+
+```bash
+export HF_ENDPOINT=https://hf-mirror.comCopy
+huggingface-cli download --resume-download --local-dir-use-symlinks False bert-base-uncased --local-dir bert-base-uncased
+```
+
 ```bash
 │  README.md
 │  requirements.txt
