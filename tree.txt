@@ -1,0 +1,28 @@
+│  README.md
+│  requirements.txt
+│  result.txt
+│  tree.txt
+│  实验五——多模态融合.md
+│  实验五——多模态融合.pdf
+│  
+├─code
+│  │  data_process.py
+│  │  main.py
+│  │  result.py
+│  │  result_data.xlsx
+│  │  test.csv
+│  │  test_without_label.txt
+│  │  train.csv
+│  │  train.txt
+│  │  train_train.csv
+│  │  train_val.csv
+│  │  
+│  ├─bert-base-uncased    
+│  ├─data
+│  │     
+│  └─results
+│          result.csv
+│          result.txt     
+└─prtsc
+
+        
